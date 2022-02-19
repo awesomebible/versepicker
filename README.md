@@ -1,3 +1,3 @@
 # 🖼 verse-imagepicker
 
-## [➜ Zum Verspicker]
+## [➜ Zum Verspicker](https://picker.verse.awesomebible.de/)
