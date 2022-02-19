@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gray-50">
-    <Card v-bind:year="year" v-bind:day="day" v-for='day in 36' :key='day'/>
+    <Card v-bind:year="year" v-bind:day="day" v-for='day in 366' :key='day'/>
   </div>
 </template>
 <script setup>
