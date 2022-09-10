@@ -2,7 +2,7 @@
     <div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 pb-2">
     <!--Card 1-->
     <div class="rounded overflow-hidden shadow-lg">
-      <img class="w-full" v-bind:src="'https://verse.awesomebible.de/img/' + year + '/' + day + '.jpg'" loading="lazy" alt="Mountain">
+      <img class="w-full" v-bind:src="'https://res.cloudinary.com/dfknk4im7/image/fetch/https://verse.awesomebible.de/img/' + year + '/' + day + '.jpg'" loading="lazy" alt="Versbild">
       <div class="px-6 py-4 pb-2">
         <div class="font-bold text-xl mb-1">Versbild {{year}} - {{day}}</div>
       </div>
