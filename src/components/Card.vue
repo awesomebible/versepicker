@@ -1,8 +1,11 @@
+<script setup>
+  import VLazyImage from "v-lazy-image";
+</script>
 <template>
     <div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 pb-2">
     <!--Card 1-->
     <div class="rounded overflow-hidden shadow-lg">
-      <img class="w-full" v-bind:src="'https://res.cloudinary.com/dfknk4im7/image/fetch/https://verse.awesomebible.de/img/' + year + '/' + day + '.jpg'" loading="lazy" alt="Versbild">
+      <v-lazy-image class="w-full" v-bind:src="'https://images.weserv.nl/?url=verse.awesomebible.de/img/' + year + '/' + day + '.jpg&maxage=1d&w=640'" loading="lazy" alt="Versbild"></v-lazy-image>
       <div class="px-6 py-4 pb-2">
         <div class="font-bold text-xl mb-1">Versbild {{year}} - {{day}}</div>
       </div>
@@ -19,11 +22,6 @@ export default {
     props: {
         year: Number,
         day: Number
-  },
-  methods: {
-      renderImage: function (){
-          alert(0)
-      }
   }
 }
 </script>

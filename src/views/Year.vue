@@ -11,7 +11,7 @@ export default {
   data() {
     return {
       day: 1,
-      year:  this.$route.params.year
+      year:  Number(this.$route.params.year)
     }
   }
 }
