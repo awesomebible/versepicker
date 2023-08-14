@@ -20,8 +20,8 @@ devDependencies:
     specifier: ^1.7.15
     version: 1.7.15(vue@3.3.4)
   '@heroicons/vue':
-    specifier: ^1.0.6
-    version: 1.0.6(vue@3.3.4)
+    specifier: ^2.0.18
+    version: 2.0.18(vue@3.3.4)
   '@tailwindcss/aspect-ratio':
     specifier: ^0.4.2
     version: 0.4.2(tailwindcss@3.3.3)
@@ -98,8 +98,8 @@ packages:
       vue: 3.3.4
     dev: true
 
-  /@heroicons/vue@1.0.6(vue@3.3.4):
-    resolution: {integrity: sha512-ng2YcCQrdoQWEFpw+ipFl2rZo8mZ56v0T5+MyfQQvNqfKChwgP6DMloZLW+rl17GEcHkE3H82UTAMKBKZr4+WA==}
+  /@heroicons/vue@2.0.18(vue@3.3.4):
+    resolution: {integrity: sha512-BcTC9nq2TkwNSfQuqo96J7ehx4etezypc2YeTq7KsXWxrcrerhkgjLrxGRBnStN0wrXo0Gv4BInybqz5uBG6Cw==}
     peerDependencies:
       vue: '>= 3'
     dependencies:
