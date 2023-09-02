@@ -1,5 +1,5 @@
 # 🖼 verse-imagepicker
-[![](https://img.shields.io/matrix/awesomebible-verse:matrix.org?color=orange&logo=matrix)](https://matrix.to/#/#awesomebible-verse:matrix.org)
+[![](https://img.shields.io/discord/940887747130957844?color=5865F2&logo=matrix)](https://matrix.to/#/#awesomebible-verse:matrix.org)
 
 ## [➜ Zum Verspicker](https://versepicker.awesomebible.de/)
 
