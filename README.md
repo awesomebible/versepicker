@@ -1,5 +1,5 @@
 # 🖼 verse-imagepicker
-[![Discord](https://img.shields.io/discord/940887747130957844?color=5865F2)](https://chat.awesomebible.de)
+[![Discord](https://img.shields.io/discord/940887747130957844?color=5865F2&logo=discord&logoColor=white)](https://chat.awesomebible.de)
 
 ## [➜ Zum Verspicker](https://versepicker.awesomebible.de/)
 
