@@ -10,10 +10,13 @@ module.exports = {
       },
     },
   },
-  darkMode: 'media',
+  daisyui: {
+    themes: ["light", "dark", "cupcake",  "night",],
+  },
   plugins: [
     require('@tailwindcss/forms'),
     require('@tailwindcss/typography'),
     require('@tailwindcss/aspect-ratio'),
+    require("daisyui")
   ],
 }
