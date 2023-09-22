@@ -1,16 +1,22 @@
 <template>
-    <div class="join join-vertical lg:join-horizontal">
-      <router-link to="/2024" class="btn btn-primary join-item">
+    <li>
+      <router-link to="/2024">
         2024
       </router-link>
-      <router-link to="/2023" class="btn btn-primary join-item">
+    </li>
+    <li>
+      <router-link to="/2023">
         2023
       </router-link>
-      <router-link to="/2022" class="btn btn-primary join-item">
+    </li>
+    <li>
+      <router-link to="/2022">
         2022
       </router-link>
-      <router-link to="/2021" class="btn btn-primary join-item">
+    </li>
+    <li>
+      <router-link to="/2021">
         2021
       </router-link>
-    </div>
+    </li>
 </template>
