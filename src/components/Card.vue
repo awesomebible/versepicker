@@ -10,10 +10,10 @@ import VLazyImage from "v-lazy-image";
       <div class="card-body">
         <h2 class="card-title">Versbild {{ year }} - {{ day }}</h2>
         <p>Das Versbild für das folgende Datum: {{ dateFromDay(year, day).toLocaleDateString() }}</p>
-        <div class="card-actions justify-end">
+        <div class="card-actions">
           <a target="_blank" rel="noopener noreferrer"
             v-bind:href="'https://verse.awesomebible.de/img/' + year + '/' + day + '.jpg'" type="button"
-            class="btn btn-primary">Öffne im neuen Tab</a>
+            class="btn btn-primary w-full">Öffne im neuen Tab</a>
         </div>
       </div>
     </div>
