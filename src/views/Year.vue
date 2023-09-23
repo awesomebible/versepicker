@@ -2,7 +2,7 @@
   <div class="bg-base-100">
     <div class="navbar bg-base-100">
       <div class="flex-1">
-        <a class="btn btn-ghost normal-case text-xl">Versbilder von {{ year }}</a>
+        <a class="btn btn-ghost normal-case text-xl">Versepicker</a>
       </div>
       <div class="flex-none">
         <ul class="menu menu-horizontal px-1">
@@ -12,7 +12,7 @@
               <summary>
                 Themes
               </summary>
-              <ul class="p-2 bg-base-100">
+              <ul class="p-2 bg-base-100 z-[1]">
                 <ThemeSwitcher></ThemeSwitcher>
               </ul>
             </details>
@@ -20,7 +20,9 @@
         </ul>
       </div>
     </div>
-    <Card v-bind:year="year" v-bind:day="day" v-for='day in 366' :key='day' />
+    <main class="grid xl:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-8 mx-8">
+      <Card v-bind:year="year" v-bind:day="day" v-for='day in 366' :key='day' />
+    </main>
   </div>
 
   <footer class="footer p-10 bg-neutral text-neutral-content">

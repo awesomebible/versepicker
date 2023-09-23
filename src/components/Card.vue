@@ -2,7 +2,6 @@
 import VLazyImage from "v-lazy-image";
 </script>
 <template>
-  <div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 pb-2">
     <div class="card lg:card-side bg-base-100 shadow-xl">
       <figure><v-lazy-image class="w-full"
           v-bind:src="'https://wsrv.nl/?url=verse.awesomebible.de/img/' + year + '/' + day + '.jpg&w=640&output=webp'" loading="lazy"
@@ -17,7 +16,6 @@ import VLazyImage from "v-lazy-image";
         </div>
       </div>
     </div>
-  </div>
 </template>
 <script>
 export default {
