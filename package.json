@@ -21,7 +21,7 @@
     "@tailwindcss/typography": "^0.5.10",
     "@vitejs/plugin-vue": "^4.3.4",
     "autoprefixer": "^10.4.16",
-    "daisyui": "^3.7.7",
+    "daisyui": "^3.8.0",
     "prettier-plugin-tailwindcss": "^0.5.4",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.9"
