@@ -9,7 +9,7 @@
   "dependencies": {
     "theme-change": "^2.5.0",
     "v-lazy-image": "^2.1.1",
-    "vue": "^3.3.4",
+    "vue": "^3.3.8",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
@@ -19,11 +19,11 @@
     "@tailwindcss/forms": "^0.5.6",
     "@tailwindcss/line-clamp": "^0.4.4",
     "@tailwindcss/typography": "^0.5.10",
-    "@vitejs/plugin-vue": "^4.4.0",
+    "@vitejs/plugin-vue": "^4.4.1",
     "autoprefixer": "^10.4.16",
-    "daisyui": "^3.9.2",
-    "prettier-plugin-tailwindcss": "^0.5.6",
-    "tailwindcss": "^3.3.3",
-    "vite": "^4.4.11"
+    "daisyui": "^3.9.4",
+    "prettier-plugin-tailwindcss": "^0.5.7",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.5.0"
   }
 }
