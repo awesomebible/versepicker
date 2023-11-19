@@ -4,7 +4,7 @@ import VLazyImage from "v-lazy-image";
 <template>
     <div class="card lg:card-side bg-base-100 shadow-xl">
       <figure><v-lazy-image class="w-full"
-          v-bind:src="'https://versepicker.awesomebible.de/.netlify/images?url=https://verse.awesomebible.de/img/' + year + '/' + day + '.jpg&w=640&h=640'" loading="lazy"
+          v-bind:src="'https://versepicker.netlify.app/.netlify/images?url=https://verse.awesomebible.de/img/' + year + '/' + day + '.jpg&w=640&h=640'" loading="lazy"
           alt="Versbild"></v-lazy-image></figure>
       <div class="card-body">
         <h2 class="card-title">Versbild {{ year }} - {{ day }}</h2>
