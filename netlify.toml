@@ -21,4 +21,4 @@
   '''
 
 [images]
-  remote_images = ["https://verse.awesomebible.de/img/.*"]
+	remote_images = ["https://verse.awesomebible.de/.*"]
