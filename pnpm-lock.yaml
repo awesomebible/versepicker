@@ -20,8 +20,8 @@ dependencies:
 
 devDependencies:
   '@headlessui/vue':
-    specifier: ^1.7.17
-    version: 1.7.17(vue@3.4.15)
+    specifier: ^1.7.18
+    version: 1.7.18(vue@3.4.15)
   '@heroicons/vue':
     specifier: ^2.1.1
     version: 2.1.1(vue@3.4.15)
@@ -293,8 +293,8 @@ packages:
     dev: true
     optional: true
 
-  /@headlessui/vue@1.7.17(vue@3.4.15):
-    resolution: {integrity: sha512-hmJChv8HzKorxd9F70RGnECAwZfkvmmwOqreuKLWY/19d5qbWnSdw+DNbuA/Uo6X5rb4U5B3NrT+qBKPmjhRqw==}
+  /@headlessui/vue@1.7.18(vue@3.4.15):
+    resolution: {integrity: sha512-N9EUJY0sHhuJQ81oQlk+vmB80NwUXsyJjxOaBrzUyO+VHIZz7v/ffFICAlrtM4TxZaZFMCzehe74yEPSqkEJ9g==}
     engines: {node: '>=10'}
     peerDependencies:
       vue: ^3.2.0
