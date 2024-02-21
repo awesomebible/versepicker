@@ -10,7 +10,7 @@
     "theme-change": "^2.5.0",
     "v-lazy-image": "^2.1.1",
     "vue": "^3.4.19",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.3.0"
   },
   "devDependencies": {
     "@headlessui/vue": "^1.7.19",
