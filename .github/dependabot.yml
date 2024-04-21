@@ -7,3 +7,5 @@ updates:
     # Check the npm registry for updates
     schedule:
       interval: "weekly"
+    reviewers:
+      - "bennihtm"
