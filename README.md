@@ -10,4 +10,4 @@
 | npm run build | Builds the project     |
 | npm run serve | Serves the local build |
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/awesomebible/docs)  [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/awesomebible/docs) [![Open with Github.dev](https://img.shields.io/badge/Open_with-Github.dev-black?style=for-the-badge&logo=github)](https://github.dev/awesomebible/docs)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/awesomebible/versepicker)  [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/awesomebible/versepicker) [![Open with Github.dev](https://img.shields.io/badge/Open_with-Github.dev-black?style=for-the-badge&logo=github)](https://github.dev/awesomebible/versepicker)
