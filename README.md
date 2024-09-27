@@ -1,5 +1,5 @@
 # 🖼 verse-imagepicker
-[![Discord](https://img.shields.io/discord/940887747130957844?color=5865F2&logo=discord&logoColor=white)](https://chat.awesomebible.de)
+[![Discord](https://img.shields.io/discord/940887747130957844?color=5865F2&logo=discord&logoColor=white)](https://chat.awesomebible.de) [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1ko08.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ## [➜ Zum Verspicker](https://versepicker.awesomebible.de/)
 
