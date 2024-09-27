@@ -22,8 +22,8 @@ importers:
         version: 4.4.5(vue@3.4.30)
     devDependencies:
       '@headlessui/vue':
-        specifier: ^1.7.22
-        version: 1.7.22(vue@3.4.30)
+        specifier: ^1.7.23
+        version: 1.7.23(vue@3.4.30)
       '@heroicons/vue':
         specifier: ^2.1.4
         version: 2.1.4(vue@3.4.30)
@@ -219,8 +219,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@headlessui/vue@1.7.22':
-    resolution: {integrity: sha512-Hoffjoolq1rY+LOfJ+B/OvkhuBXXBFgd8oBlN+l1TApma2dB0En0ucFZrwQtb33SmcCqd32EQd0y07oziXWNYg==}
+  '@headlessui/vue@1.7.23':
+    resolution: {integrity: sha512-JzdCNqurrtuu0YW6QaDtR2PIYCKPUWq28csDyMvN4zmGccmE7lz40Is6hc3LA4HFeCI7sekZ/PQMTNmn9I/4Wg==}
     engines: {node: '>=10'}
     peerDependencies:
       vue: ^3.2.0
@@ -1100,7 +1100,7 @@ snapshots:
   '@esbuild/win32-x64@0.21.5':
     optional: true
 
-  '@headlessui/vue@1.7.22(vue@3.4.30)':
+  '@headlessui/vue@1.7.23(vue@3.4.30)':
     dependencies:
       '@tanstack/vue-virtual': 3.7.0(vue@3.4.30)
       vue: 3.4.30
